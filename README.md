@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleyna</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **Java, CSS**
+- 🌱 I’m currently learning **JavaScript and Java**
 
 - 📫 How to reach me **aleynafakilar@gmail.com**
 
